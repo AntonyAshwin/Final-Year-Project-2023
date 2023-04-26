@@ -76,7 +76,7 @@ function App() {
       <div className="row">
     <div className='col-sm-6'>
 
-        <h2>Certificate Verification </h2>
+        <h2>Certificate Verification Just Checking Demo </h2>
         <form className="form-inline" onSubmit={e => first_div(e)}>
        
             <input 
